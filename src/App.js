@@ -8,7 +8,7 @@ import './App.css';
 import createClient from './apollo/create-client';
 import RepoInfoWithData from './react/repo-info-issues';
 
-const token = 'cb5d8ac369f395a74f8ce0849565f043010d34e3';
+const token = 'YOUR TOEKN HERE';
 const client = createClient(token);
 
 class App extends Component {
