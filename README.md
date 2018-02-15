@@ -37,7 +37,7 @@ $ npm install bit-bin -g
 2. Let’s [initialize Bit](https://docs.bitsrc.io/docs/initializing-bit.html) for the project.
 
 ```bash
-$ cd project-directory
+$ cd github-graphql-template 
 $ bit init
 ```
 
